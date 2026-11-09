@@ -1,0 +1,13 @@
+dist/
+target/
+salida/
+instalador/
+*.exe
+nbproject/private/
+dist/
+build/
+target/
+salida/
+instalador/
+*.exe
+nbproject/private/
